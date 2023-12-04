@@ -9,7 +9,7 @@ for (int i = 0; i < lines.Length; i++)
 {
     var topNumbers = new List<Match>();
     var bottomNumbers = new List<Match>();
-    var lineNumbers = new List<Match>();fo
+    var lineNumbers = new List<Match>();
 
     if (i - 1 >= 0)
     {
